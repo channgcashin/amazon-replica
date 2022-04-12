@@ -1,0 +1,122 @@
+body, html{
+    height: 100%;
+    margin: 0px;
+    font-family: "Amazon Ember", Arial, sans-serif;
+}
+
+
+.logo{
+    padding-top: 40px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.box{
+    padding: 5px;
+    width: 475px;
+    height: 325px;
+    margin: auto; 
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.box h2{
+    padding-left: 17px;
+    padding-bottom: 10px;
+    margin: 0px;
+    font-weight: lighter;
+    font-size: 30px;
+    line-height: 1.2;
+    text-align: left;
+}
+
+.inputs{
+    padding-left: 17px;
+    text-align: left;
+}
+
+label{
+    padding: 10px;
+    padding-left: 0px;
+    font-size: 13px;
+    color: rgb(75, 75, 75);
+}
+
+input{
+    width: 93%;
+    height: 30px;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border-radius: 2px;
+    border: 1px solid rgb(153, 153, 153);
+    padding-left: 5px;
+}
+
+.continue{
+    width: 94%;
+    text-align: center;
+    background-color: rgb(255, 195, 82);
+    border: 1px solid rgb(102, 102, 102);
+    border-radius: 2px;
+    padding: 8px 0px;
+    margin-bottom: 25px;
+    color:rgb(75, 75, 75)
+}
+
+#nh{
+    margin: 20px 10px;
+    padding: 10px 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.bottom{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.create{
+    text-align: center;
+    margin: auto;
+    color: rgb(92, 92, 92);
+    background-color: rgb(223, 223, 223);
+    width: 450px;
+    padding: 8px 0px;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 2px;
+}
+
+#new{
+    color: rgb(153, 153, 153);
+    font-size: 18px;
+}
+
+#c{
+    margin: 0px;
+}
+
+footer{
+    text-align: center;
+    width: 100%;
+}
+
+hr{
+    margin-bottom: 40px;
+}
+
+ul{
+    padding: 0px;
+}
+
+footer li{
+    display: inline;
+    margin: 20px;
+}
+
+#copy{
+    margin-top: 40px;
+}
